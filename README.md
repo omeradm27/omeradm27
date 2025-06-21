@@ -1,4 +1,4 @@
-# 💫 About Me [omeradm27.github.io/github-portfolio](https://omeradm27.github.io/github-portfolio)
+# 💫 About Me ([omeradm27.github.io/github-portfolio](https://omeradm27.github.io/github-portfolio))
 Hi there! I'm Ömer Çetinadam — a fullstack developer passionate about building scalable, high-performance web applications.
 
 🔭 Currently working on several collaborative projects  
