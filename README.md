@@ -1,71 +1,37 @@
-# 💫 About Me (https://omeradm27.github.io/github-portfolio/)
-Hi! I'm Ömer Çetinadam — a passionate Full Stack Developer who loves building modern web apps from frontend to backend.
+# 💫 About Me
+Hi there! I'm Ömer Çetinadam — a fullstack developer passionate about building scalable, high-performance web applications.
 
-🔭 I’m actively working on full-stack projects with my friends  
-👯 I’m open to collaborations on scalable, end-to-end products  
-💬 Ask me about React, Node.js, Prisma, PostgreSQL, or anything backend/frontend  
-🌍 Deployed projects with GitHub Actions, Vercel, and Docker  
+🔭 Currently working on several collaborative projects  
+👯 Looking to collaborate on full-stack solutions  
+💬 Ask me anything about backend, frontend, and deployment pipelines  
+🌍 Live Portfolio: [omeradm27.github.io/github-portfolio](https://omeradm27.github.io/github-portfolio)
 
----
-
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-cetinadam)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:omeradm27@gmail.com)  
+## 🌐 Socials (Feel Free To Contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-cetinadam)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/omeradm27)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)  
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis)  
+### 🔧 Frontend & CI/CD
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)  ![Windmill UI](https://img.shields.io/badge/WindmillCSS-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![OpenAI API](https://img.shields.io/badge/OpenAI-%234150B9.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)  ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-%230073C7.svg?style=for-the-badge&logo=azure-pipelines&logoColor=white)  ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux)  
-![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)  
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs)  
-![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)  
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+### 🖥️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)  ![.NET Core](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE.svg?style=for-the-badge&logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230073C7.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omeradm27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔗 [**ZerowasteGPT**](https://zerowastegpt.org/) – GPT-4 powered sustainability assistant  
-- 🔗 [**Felixo**](https://felixo.com) – Crypto exchange platform  
-- 🔗 [**Easy CRM**](https://crm-test-frontend.vercel.app/) – Lightweight CRM for startups  
-- 🔗 [**Persiy**](https://persiy-frontend.vercel.app/) – E-commerce platform with full CI/CD  
-- 🔗 [**Library App**](https://library-app-web.vercel.app/) – Full-stack library system  
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=omeradm27&show_icons=true&theme=merko)
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=omeradm27&theme=merko&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=omeradm27&theme=merko)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeradm27&theme=github_dark)
-
----
-
-## ✍️ Random Dev Quote  
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🧭 Visitor Count  
-![Visitor Count](https://visitcount.itsvg.in/api?id=omeradm27&icon=0&color=0)
-
-<!-- Profile readme auto-generated by custom assistant 😎 -->
-
+[![](https://visitcount.itsvg.in/api?id=omeradm27&icon=0&color=10)](https://visitcount.itsvg.in)
