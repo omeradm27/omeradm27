@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me (https://omeradm27.github.io/github-portfolio/)
 Hi! I'm Ömer Çetinadam — a passionate Full Stack Developer who loves building modern web apps from frontend to backend.
 
 🔭 I’m actively working on full-stack projects with my friends  
